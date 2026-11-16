@@ -1,0 +1,19 @@
+THORLABS X-Y PROFILE MFD ANALYSIS
+Input file: X_profile_Data_#001.txt
+Input layout: 4-column combined X-Y export
+Magnification: 7.0x
+1/e^2 level: 13.5 %
+
+X method: outermost crossings over the whole trace
+MFD_x: 10.002371 µm
+X left crossing: -0.318128 µm
+X right crossing: 9.684243 µm
+X raw baseline: 0.181357
+X baseline-subtracted peak: 99.836469
+
+Y method: nearest crossings around the highest peak
+MFD_y: 12.262317 µm
+Y left crossing: 0.886454 µm
+Y right crossing: 13.148771 µm
+Y raw baseline: 0.235867
+Y baseline-subtracted peak: 99.781959

@@ -1,0 +1,5 @@
+ellipse_scale,aperture_counts,total_counts,raw_fraction,fraction,fraction_noise_indicator,clipped,ideal_gaussian_enclosed_fraction,core_region_power_at_meter_plane_uW,core_region_power_before_nd_uW,power_flags
+1.0,119521.61889826738,343984.9578403096,0.3474617600975264,0.3474617600975264,0.004129402618011007,False,0.8646647167633873,,,More than 1% of background-edge pixels are zero: possible black-level clipping.
+1.5,140203.145571759,343984.9578403096,0.4075851061977147,0.4075851061977147,0.004832381771682573,False,0.9888910034617577,,,More than 1% of background-edge pixels are zero: possible black-level clipping.
+2.0,146922.44603317208,343984.9578403096,0.4271188105306013,0.4271188105306013,0.00504642735231627,False,0.9996645373720975,,,More than 1% of background-edge pixels are zero: possible black-level clipping.
+2.5,151672.65834999224,343984.9578403096,0.4409281711103316,0.4409281711103316,0.005186918576983436,False,0.999996273346828,,,More than 1% of background-edge pixels are zero: possible black-level clipping.
